@@ -1,4 +1,5 @@
-# pip install *
+# pip install pywin32
+
 import win32print
 import requests
 import sys
