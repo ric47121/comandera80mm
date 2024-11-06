@@ -1,3 +1,5 @@
+// pm2 start servicio_impresion.js --name "myapp" --watch -i 1
+
 // npm i express
 // npm i cors
 const express = require('express');
